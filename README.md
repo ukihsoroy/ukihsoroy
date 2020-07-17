@@ -8,3 +8,5 @@ This is the place where I opensource stuff and break things 🤣.
 - 📫 How to reach me: [@ukihsoroy](https://github.com/ukihsoroy/ukihsoroy)
 - ⚡ Fun fact: History, Read.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
