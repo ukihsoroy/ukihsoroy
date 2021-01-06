@@ -6,6 +6,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 💬 Ask me about anything related to Java/Scala/Python or Spring/Spark/k8s.
 - 📫 How to reach me: [@Hom Shen](https://www.facebook.com/ukihsorory)
 
+📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
 Java         1 min           ███████████░░░░░░░░░░░░░░   43.60 % 
