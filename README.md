@@ -8,6 +8,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java         1 min           ███████████░░░░░░░░░░░░░░   43.60 % 
 ```
 <!--END_SECTION:waka-->
