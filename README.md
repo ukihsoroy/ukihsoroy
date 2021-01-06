@@ -7,8 +7,11 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: [@Hom Shen](https://www.facebook.com/ukihsorory)
 
 📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-Java         1 min           ███████████░░░░░░░░░░░░░░   43.60 % 
-```
-<!--END_SECTION:waka-->
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ukihsoroy&hide_title=true&hide_border=true&langs_count=5&theme=tokyonight)
+
+📕 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [当我们在聊数据质量的时候，我们在聊些什么?](https://segmentfault.com/a/1190000037765180)
+<!-- BLOG-POST-LIST:END -->
+
+![K.O's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ukihsoroy&theme=tokyonight)
