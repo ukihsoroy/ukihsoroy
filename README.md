@@ -15,4 +15,4 @@ This is the place where I opensource stuff and break things :rofl:
 - [当我们在聊数据质量的时候，我们在聊些什么?](https://segmentfault.com/a/1190000037765180)
 <!-- BLOG-POST-LIST:END -->
 
-![K.O's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ukihsoroy&theme=dark)
+![K.O's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ukihsoroy&theme=tokyonight)
