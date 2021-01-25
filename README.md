@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI, ML and CloudNative.
 - 💬 Ask me about anything related to Java/Scala/Python or Spring/Spark/k8s.
-- 📫 How to reach me: [@Hom Shen](https://www.facebook.com/ukihsorory)
+- 📫 How to reach me: [@Hom Shen]()
 
 📊 **This week I spent my time on**
 
