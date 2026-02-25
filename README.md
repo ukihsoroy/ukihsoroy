@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning BigData, ML and CloudNative.
+- 🌱 I’m currently learning BigData, ML/LLM and CloudNative.
 - 💬 Ask me about anything related to Java/Scala/Python or Spring/Spark/k8s.
 
 📊 **This week I spent my time on**
